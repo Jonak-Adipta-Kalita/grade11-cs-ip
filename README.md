@@ -7,6 +7,6 @@ This is very specific (just for my school), as opposed to my Sandbox repo, which
 Currently I have only one notebook:
 - [pt-1.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/pt-1.ipynb): prepping for the first unit test.
 
-> Open repo in [Google Collab](https://githubtocolab.com/moiSentineL/grade11-cs-ip)
+### Open repo in [Google Collab](https://githubtocolab.com/moiSentineL/grade11-cs-ip)
 
 
