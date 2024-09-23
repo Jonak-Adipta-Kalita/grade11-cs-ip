@@ -9,4 +9,6 @@ Currently I have only one notebook:
 
 ### Open repo in [Google Collab](https://githubtocolab.com/moiSentineL/grade11-cs-ip)
 
+You may find some horrendous stuff, but don't expect me to censor myself.
+
 
