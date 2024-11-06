@@ -6,6 +6,7 @@ This is very specific (just for my school), as opposed to my [Sandbox repo](http
 
 Currently I have only one notebook:
 - [pt-1.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/pt-1.ipynb): prepping for the first unit test.
+- (**Incomplete**) [data-structures.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/data-structures.ipynb): about most things related to lists, tuples and dictionaries (data structure for Python). 
 
 ### Open repo in [Google Collab](https://githubtocolab.com/moiSentineL/grade11-cs-ip)
 
