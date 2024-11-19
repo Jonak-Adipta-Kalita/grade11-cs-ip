@@ -6,7 +6,8 @@ This repo contains all of my notes for Grade 11 CS/IP course from CBSE.
 
 This is very specific (just for my school), as opposed to my [Sandbox repo](https://github.com/moiSentineL/sandbox), which is for, well, *sandboxing*.
 
-I've tried my best to make it understandable, although it helps if you have some basic Python knowledge. You can learn Python from [these resources](https://gist.github.com/moiSentineL/a894ed191fe583db6b90044417fbdd09)
+I've tried my best to make it understandable, although it helps if you have some basic Python knowledge. 
+You can learn Python from [these resources](https://gist.github.com/moiSentineL/a894ed191fe583db6b90044417fbdd09).
 
 My notebooks:
 - [pt-1.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/pt-1.ipynb): Includes conditional statements, loops and some problem statements.
