@@ -11,7 +11,8 @@ You can learn Python from [these resources](https://gist.github.com/moiSentineL/
 
 My notebooks:
 - [pt-1.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/pt-1.ipynb): Includes conditional statements, loops and some problem statements.
-- (**Incomplete**) [data-structures.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/data-structures.ipynb): about most things related to lists, tuples and dictionaries (data structure for Python). 
+- [data-structures.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/data-structures.ipynb): about most things related to lists, tuples and dictionaries (data structure for Python). 
+- [problems.ipynb](https://github.com/moiSentineL/grade11-cs-ip/blob/main/problems.ipynb): some logical and interesting problems that might come in handy. (**not the most efficient solution, please feel free to suggest better code.**)  
 
 ### Open repo in [Google Collab](https://githubtocolab.com/moiSentineL/grade11-cs-ip)
 
